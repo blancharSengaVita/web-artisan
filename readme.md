@@ -86,20 +86,16 @@ Pas d’animation de préférence (à part si c’est bien intégrer).
     
 - Formation
     - Cursus
-
         → Déroulement du cursus
-        
         - Cours
         - Professeurs
-    - les débouchés
-    
-    → Listes de métiers
-    
-    - fiche qui explique leurs métiers (et les salaires potentiels)
-        - interview vidéo et/ou écrites d’anciens élèves qui parle de leurs métiers et comment l’école les a aidé.
-    - projets étudiants 
-      -> étapes de creations.
-      -> textes expliquant le déroulement, ce qui ce passe dans la tête de l'étudiant.
+    - les débouchés : listes de tous les métier qu'on peut faire grace à la formation (liste/liens)
+      - fiche qui explique leurs métiers (et les salaires potentiels)
+          - interview vidéo et/ou écrites d’anciens élèves qui parle de leurs métiers et comment l’école les a aidé.
+- projets étudiants 
+  - galeries de projets étudiants.
+    - étapes de creations.
+    - textes expliquant le déroulement, ce qui ce passe dans la tête de l'étudiant.
 - Forum
     - Liste de chat.
     - FAQ
@@ -129,7 +125,7 @@ Il y aura des articles, images, vidéos, ressources téléchargeables (pdf sur l
 
 ### Contraintes techniques
 On utilisera du CSS et de l'HTML. L'HTML est un langage qui permet de structurer les pages web tandis que le CSS permet de mettre de l'esthétique sur cette structure.
-On utilisera du javascript pour ajouter des effets qui amélioront l’expérience utilisateur et visuelle bien que le site sera capable de fonctionner sans.
+On utilisera du javascript pour ajouter des effets qui amélioreront l’expérience utilisateur et visuelle bien que le site sera capable de fonctionner sans.
 On utilisera aussi laravel pour le development Back-end.
 
 
