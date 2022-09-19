@@ -10,6 +10,17 @@ La haute école de la province de Liège (HEPL), bachelier en Techniques graphiq
 
 Le but du site est d’attirer des étudiants dans l’orientation web et de les informer du mieux que possible de ce qui leur attend.
 
+Le site doit présenter les cours et les professeurs qui y sont présents.
+
+Il doit montrer les différents déboucher qui sont possibles d'avoir après ce cursus.
+
+Parler de l'établissement et de ses valeurs ses points forts qui sont l'ergonomie, l'utilisabilité, l'accessibilité et le référencement.
+
+Il doit pouvoir être une vitrine d'anciens travaux étudiants pour que les personnes qui se rendent sur le site puisse avoir une idée des projets qui y sont conçu. 
+
+Il doit permettre aux étudiants et non étudiants de partager et échanger leurs avis, d'échanger, de s'informer sur les actualités de l'option web et de poser des questions vis à vis du domaine du web.
+
+
 ### Cible
 
 Toutes personnes qui veulent entreprendre des études (principalement des jeunes).
@@ -18,13 +29,13 @@ Ceux qui veulent des infos sur le métier de web designer.
 
 Ceux qui veulent poser des questions sur cette orientation.
 
-Ceux qui veulent s'inscrire
+Ceux qui veulent s'inscrire.
 
-Aux personnes qui veulent échanger à propos du web design
+Aux personnes qui veulent échanger à propos du web design.
 
-Ceux qui cherchent un stage dans le monde du web design et ceux qui veulent des stagiaires dans ce domaine 
+Ceux qui cherchent un stage dans le monde du web design et ceux qui veulent des stagiaires dans ce domaine.
 
-Ceux qui veulent principalement une formation de qualité au niveau de l'accessibilité, de l'ergonomie, du référencement et d'utilisabilité
+Ceux qui veulent principalement une formation de qualité au niveau de l'accessibilité, de l'ergonomie, du référencement et d'utilisabilité.
 
 ### Périmètre du projet
 
@@ -43,7 +54,7 @@ Adapté pour les supports mobiles.
 
 Pas de contrainte particulière si ce n’est :
 
-- un thème clair.
+- un thème clair
 
 ### Design
 
@@ -85,57 +96,66 @@ Pas d’animation de préférence (à part si c’est bien intégrer).
     → Listes de métiers
     
     - fiche qui explique leurs métiers (et les salaires potentiels)
-        - interview vidéo et/ou écrites d’anciens élèves qui parle de leurs métiers et comment l’école les a aidé
+        - interview vidéo et/ou écrites d’anciens élèves qui parle de leurs métiers et comment l’école les a aidé.
     - projets étudiants 
-      -> étapes de creations
-      -> textes expliquant le déroulement, ce qui ce passe dans la tête de l'étudiant
+      -> étapes de creations.
+      -> textes expliquant le déroulement, ce qui ce passe dans la tête de l'étudiant.
 - Forum
-    - Liste de chat
+    - Liste de chat.
     - FAQ
 - Blog/actualité/news
-    - conference, porte ouverte
+    - conference, porte ouverte.
     - tuto ?
 - Stages
-    - liste de stage
-    - pouvoir proposer un recrutement de stagiaire
-- Parler de nos valeurs / nos forces et un plus de l’école
-    - on parle de l’ergonomie, etc
+    - liste de stage.
+    - pouvoir proposer un recrutement de stagiaire.
+- Parler de nos valeurs / nos forces et un plus de l’école.
+    - on parle de l’ergonomie, etc.
 
 ### Description fonctionnelle
 
-On voudrait des roles en fonction de qui utilise le site exemple :Administrateur, rédacteur, étudiant, etc.
+On voudrait y intégrer
+- des roles en fonction de qui utilise le site exemple : Administrateur, rédacteur, étudiant, etc.
+- Un moteur de recherche pour trouver une information à travers la page sans devoir beaucouo naviguer.
+- un blog qui nous parle des actualités de l'HEPL option WEB.
+- un forum qui permettra au gens de parler.
+- un formulaire de contact pour qu'il puisse contacter l'HEPL.
+- une newsletter qui leur permettra d'avoir des nouvelles.
 
-Un moteur de recherche, un blog, un forum et un formulaire de contact doivent y être intégré.
 
 ### Informations relatives aux contenus
 
-Il y aura des articles, images, vidéos, ressources téléchargeables (pdf sur le cursus par exemple), etc
+Il y aura des articles, images, vidéos, ressources téléchargeables (pdf sur le cursus par exemple), etc.
 
 ### Contraintes techniques
+On utilisera du CSS et de l'HTML. L'HTML est un langage qui permet de structurer les pages web tandis que le CSS permet de mettre de l'esthétique sur cette structure.
+On utilisera du javascript pour ajouter des effets qui amélioront l’expérience utilisateur et visuelle bien que le site sera capable de fonctionner sans.
+On utilisera aussi laravel pour le development Back-end.
 
-- Utiliser laravel
-- Compatible avec tous les navigateurs
-- Image responsive (qui s'adapte à toutes les tailles)
-- Niveau d’accessibilité AA minimum
+
+On s'assurera 
+- que le site soie compatible avec tous les navigateurs.
+- que les images soient responsive (qui s'adapte à toutes les tailles).
+- que le Niveau d’accessibilité soie AA minimum.
 
 ## Prestations attendues et modalités de sélection des prestataires
 
 ### Prestations attendues
 
-Blanchar Senga-Vita s’occupera de tout les aspects du projet
+Blanchar Senga-Vita s’occupera de tout les aspects du projet.
 
 ### Date butoir
 
-Le jury en janvier
+Le jury en janvier.
 
 ### Autres échéances
 
-Lundi 19 septembre : cahier de charge
+Lundi 19 septembre : cahier de charge.
 
-Mercredi 21 septembre : wireframe textuelle
+Mercredi 21 septembre : wireframe textuelle.
 
-lundi 26 septembre : wireframe
+lundi 26 septembre : wireframe.
 
-lundi 3 octobre : design
+lundi 3 octobre : design.
 
-Le reste a déterminé
+Le reste a déterminé.
