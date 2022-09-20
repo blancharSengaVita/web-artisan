@@ -37,6 +37,50 @@ Il doit permettre aux étudiants et non étudiants de partager et échanger leur
 
 - Ceux qui veulent principalement une formation de qualité au niveau de l'accessibilité, de l'ergonomie, du référencement et d'utilisabilité.
 
+### Personas Rapide
+
+
+#### Tobias Ramses
+
+- 18 ans
+
+- vit à Ougrée
+
+- vient de finir ses études secondaires.
+
+- est intéressé par le web.
+
+Il veut savoir le salaire qu’il aura en faisant ce metier et les competences qui va acquérir dans cette école 
+
+Tâche : savoir les compétences qu'on va y acquérir et en combien de temps. Savoir le salaire qu'on peut avoir en faisant ce métier, comment s'inscrire et comment se rendre à l'école.
+
+#### Mahrez Luiz
+
+- 22 ans
+
+- diplomé de HEAJ
+
+- veut avoir une formation plus technique sur le web. Il veut savoir ce qu’on peut apprendre de plus dans cette école.
+
+tâche : consulter les avis sur les sites, discuter avec les gens du forum, voir ce que l’établissement peut lui proposer en plus.
+
+#### Chantal Maligne
+
+44 ans
+
+Veut se renseigner sur les études que fait son fils.
+
+tâche : chercher des informations sur l’ecole, les profs les cours et trouver un moyen de nous contacter
+
+
+#### Théo Leonet
+
+20 ans
+
+- cherche des idées de comment il pourrait améliorer son environnement vim.
+
+tâche : aller sur le forum, voir ce qui se place sur le blog, créer des contacts avec des gens qui utilise vim.
+
 ### Objectifs quantitatifs
 
 On veut attirer toutes les personnes qui ont en mots clés dans leur recherche quelque chose en rapport avec des études de web design par exemple « études design web, devenir développeur web, les metiers du web»
@@ -61,6 +105,8 @@ Pas de contrainte particulière si ce n’est :
 - un thème clair
 
 ### Design
+La couleur principale va être un camaïeu de bleu. Le bleu est la couleur du site de la HEPL. Cette couleur sera utilisée pour garder une cohérence et une uniformité avec eux. 
+La police d'écriture principale sera Inter une police
 
 Pas d’animation de préférence (à part si c’est bien intégrer).
 
@@ -118,7 +164,7 @@ Pas d’animation de préférence (à part si c’est bien intégrer).
 
 On voudrait y intégrer
 - des roles en fonction de qui utilise le site exemple : Administrateur, rédacteur, étudiant, etc.
-- Un moteur de recherche pour trouver une information à travers la page sans devoir beaucouo naviguer.
+- Un moteur de recherche pour trouver une information à travers la page sans devoir beaucoup naviguer.
 - un blog qui nous parle des actualités de l'HEPL option WEB.
 - un forum qui permettra au gens de parler.
 - un formulaire de contact pour qu'il puisse contacter l'HEPL.
